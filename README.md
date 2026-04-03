@@ -21,7 +21,7 @@ I utilized several Nmap flags to gather deep technical data:
 4. **Network Topology:** Performed hop-by-hop traceroute analysis to visualize the path to the target server.
 
 ## Project Screenshots
-*Below are the visual results of the scanning process:*
+Below are the visual results of the scanning process:
 
 ### 1. Localhost Baseline Scan
 ![nmap3](https://github.com/user-attachments/assets/08737313-727d-41e2-af26-3fcceee81c01)
